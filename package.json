@@ -1,0 +1,22 @@
+{
+  "name": "metalsmith-time-to-read",
+  "version": "1.0.0",
+  "description": "A metalsmith plugin to indicate how long it would take to read the content of an article.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frederikprijck/metalsmith-time-to-read.git"
+  },
+  "keywords": [
+    "metalsmith"
+  ],
+  "author": "Frederik Prijck <frederik.prijck@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frederikprijck/metalsmith-time-to-read/issues"
+  },
+  "homepage": "https://github.com/frederikprijck/metalsmith-time-to-read#readme",
+  "dependencies": {
+    "multimatch": "^2.1.0"
+  }
+}
